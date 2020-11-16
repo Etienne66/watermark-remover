@@ -1,3 +1,11 @@
+
+
+**Deleted original: https://github.com/whitelok/watermark-remover | https://web.archive.org/web/20201112040321/https://github.com/whitelok/watermark-remover**
+
+**Author: @whitelok**
+
+**Last version: https://github.com/whitelok/watermark-remover/archive/b5ffd4d.zip**
+
 # Watermark Remover Automatically
 
 ## Tips
